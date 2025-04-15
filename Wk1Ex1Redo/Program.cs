@@ -11,7 +11,7 @@ namespace Wk1Ex1Redo
         static void Main(string[] args)
         {
             //print message
-            Console.WriteLine("Welcome to ITSE1302");
+            Console.WriteLine("Welcome to ITSE1302"); 
         }
     }
 }
